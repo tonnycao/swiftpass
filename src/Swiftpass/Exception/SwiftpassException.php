@@ -4,7 +4,7 @@
 namespace Xcrms\Swiftpass\Exception;
 
 /***
- * @todo 远程服务端异常
+ * @todo 涓氬姟寮傚父
  * Class SwiftpassException
  * @package Xcrms\Swiftpass\Exception
  */
